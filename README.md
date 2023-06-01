@@ -4,7 +4,7 @@
 
 ## Сертификат
 
-![Сертификат](certificate.jpg)
+![Сертификат](Karpov_courses.png)
 
 Вы также можете скачать мой сертификат [https://lab.karpov.courses/certificate/2cca25e5-4b54-4c64-980f-25cb3fea72ed/en/].
 
