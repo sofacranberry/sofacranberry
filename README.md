@@ -11,4 +11,4 @@
 ## Контакты
 
 - Электронная почта: sofaklukvina@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/софья-клюквина-ab908823b/](https://www.linkedin.com/in/софья-клюквина-ab908823b/)
+- LinkedIn: [https://www.linkedin.com/in/sofia-kliukvina-ab908823b/](https://www.linkedin.com/in/sofia-kliukvina-ab908823b/)
