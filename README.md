@@ -1,19 +1,15 @@
-### Привет 👋
+### Hello 👋
+I continue to develop my skills and am currently actively studying software testing. My educational experience in data analytics courses has given me solid knowledge in Python, SQL, mathematical statistics, probability theory, product metrics, and product development frameworks.
 
-Я продолжаю развивать свои навыки и в настоящее время активно изучаю тестирование программного обеспечения. Мой учебный опыт на курсах по аналитике данных дал мне прочные знания в области Python, SQL, математической статистики, теории вероятностей, продуктовых метрик и фреймворков для развития продукта.
+I particularly want to highlight my experience working with marketplaces, where I used Selenium for data scraping. I then applied this knowledge to further explore automated testing.
 
-Особо хочу отметить свой опыт работы с маркетплейсами, где я использовала Selenium для парсинга данных. Эти знания я затем применяла для более глубокого изучения автоматизированного тестирования.
+Currently, I am seeking opportunities in manual testing and plan to apply my knowledge in automated testing in the future.
 
-Сейчас я ищу возможности в области мануального тестирования и планирую в будущем применять свои знания в автоматизированном тестировании.
+## Certificates
+<img src="Be-tester.jpg" alt="Certificate" width="200"/>
 
+<img src="Karpov_courses.png" alt="Certificate" width="200"/>
 
-## Сертификаты
-
-![Сертификат](Be-tester.jpg)
-
-![Сертификат](Karpov_courses.png)
-
-## Контакты
-
-- Электронная почта: sofaklukvina@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/sofia-kliukvina-ab908823b/](https://www.linkedin.com/in/sofia-kliukvina-ab908823b/)
+## Contacts
+Email: sofaklukvina@gmail.com
+LinkedIn: https://www.linkedin.com/in/sofia-kliukvina-ab908823b/
