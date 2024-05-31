@@ -9,7 +9,6 @@
 
 ## Сертификаты
 
-![Сертификат](https://drive.google.com/file/d/1zSHeJUgD7XxFMNro6V-At73LA0SQ5Uop/view)
 
 
 ![Сертификат](Karpov_courses.png)
